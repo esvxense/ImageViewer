@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3E444BE4-6998-4C6D-9612-0F04C1A72EC2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6149F2F2-91CB-4F80-BA14-F26C5385D113"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/Main/MainCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "showImagePicker(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF54172F-7CB8-4A07-9F89-DDA188B70AE9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/Main/MainController+UI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "addImageView(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF54172F-7CB8-4A07-9F89-DDA188B70AE9 - fdb7334483ca63d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.MainController.addImageView(with: __C.UIImage) -&gt; ()"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esvxense/Desktop/Development/ImageViewer/ImageViewer/Main/MainController+UI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "2888">
+               </Location>
+               <Location
+                  uuid = "EF54172F-7CB8-4A07-9F89-DDA188B70AE9 - fdb7334483ca632b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.MainController.addImageView(with: __C.UIImage) -&gt; ()"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esvxense/Desktop/Development/ImageViewer/ImageViewer/Main/MainController+UI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "1836">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02F6C5BE-10E1-4F17-996A-535EC438F11D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/Main/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "savePerformedImage(image:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "02F6C5BE-10E1-4F17-996A-535EC438F11D - 44592ee24fb1260c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.MainViewModel.savePerformedImage(image: __C.UIImage) -&gt; ()"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esvxense/Desktop/Development/ImageViewer/ImageViewer/Main/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "2016">
+               </Location>
+               <Location
+                  uuid = "02F6C5BE-10E1-4F17-996A-535EC438F11D - 44592ee24fb1260c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.MainViewModel.savePerformedImage(image: __C.UIImage) -&gt; ()"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esvxense/Desktop/Development/ImageViewer/ImageViewer/Main/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "2232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8178875-AB00-439E-A75D-28143111478E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/Main/MainViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "savePerformedImage(image:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8178875-AB00-439E-A75D-28143111478E - 44592ee24fb12669"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.MainViewModel.savePerformedImage(image: __C.UIImage) -&gt; ()"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esvxense/Desktop/Development/ImageViewer/ImageViewer/Main/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "2024">
+               </Location>
+               <Location
+                  uuid = "B8178875-AB00-439E-A75D-28143111478E - 44592ee24fb12669"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.MainViewModel.savePerformedImage(image: __C.UIImage) -&gt; ()"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esvxense/Desktop/Development/ImageViewer/ImageViewer/Main/MainViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "2240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06D68778-D0DF-4A9B-9CBC-81CCF85490A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/Settings/TableManager/SettingsControllerTableManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "setDataToTable(buttonTitle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "68267018-4877-428C-81C3-6C4F1B69459D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/Settings/TableManager/SettingsControllerTableManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setDataToTable(buttonTitle:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C76D907D-3E25-4A4E-9000-5408A808715F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/Settings/TableManager/SettingsControllerTableManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "setDataToTable(buttonTitle:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C76D907D-3E25-4A4E-9000-5408A808715F - cedf33777991ba5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.SettingsControllerTableManager.setDataToTable(buttonTitle: Swift.String) -&gt; ()"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esvxense/Desktop/Development/ImageViewer/ImageViewer/Settings/TableManager/SettingsControllerTableManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "C76D907D-3E25-4A4E-9000-5408A808715F - cedf33777991b84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ImageViewer.SettingsControllerTableManager.setDataToTable(buttonTitle: Swift.String) -&gt; ()"
+                  moduleName = "ImageViewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/esvxense/Desktop/Development/ImageViewer/ImageViewer/Settings/TableManager/SettingsControllerTableManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "240">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "346EE0CC-368D-4582-A6C2-6ED5231878D1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/Settings/SettingsCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "openAboutAlert()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60578758-0AEE-475A-9B09-8CC22C51F048"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/Settings/TableManager/SettingsControllerTableManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "createSettingsControllerButtonConfigurator(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EB85A45-58EA-4423-B8D6-037A3EA08D45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageViewer/Settings/SettingsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "bindManagerClosures()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
